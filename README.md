@@ -25,5 +25,6 @@ API Operations tested:
 	move to donelist
 	delete board
 
+API endpoints: https://developer.atlassian.com/cloud/trello/rest/api-group-actions/
 Outcome:
 This sample project demonstrates practical knowledge of REST API testing, request-response validation, and assertions in postman.
