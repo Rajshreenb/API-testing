@@ -24,3 +24,6 @@ API Operations tested:
 	signup for trello
 	move to donelist
 	delete board
+
+Outcome:
+This sample project demonstrates practical knowledge of REST API testing, request-response validation, and assertions in postman.
